@@ -148,36 +148,6 @@
 	    <width>0.06</width>
 	    <offset>-0.265</offset>
 	  </component>
-	  <component>
-	    <layer>Si</layer>
-	    <width>0.06</width>
-	    <offset>0.385</offset>
-	  </component>
-	  <component>
-	    <layer>Si</layer>
-	    <width>0.06</width>
-	    <offset>-0.385</offset>
-	  </component>
-	  <component>
-	    <layer>Si</layer>
-	    <width>0.06</width>
-	    <offset>0.505</offset>
-	  </component>
-	  <component>
-	    <layer>Si</layer>
-	    <width>0.06</width>
-	    <offset>-0.505</offset>
-	  </component>
-	  <component>
-	    <layer>Si</layer>
-	    <width>0.06</width>
-	    <offset>0.625</offset>
-	  </component>
-	  <component>
-	    <layer>Si</layer>
-	    <width>0.06</width>
-	    <offset>-0.625</offset>
-	  </component>
 	</waveguide>
 	<waveguide>
 	  <name>Rib (90 nm slab) TE 1550 nm, w=500 nm</name>
